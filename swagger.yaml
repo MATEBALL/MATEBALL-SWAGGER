@@ -1,8 +1,10 @@
 ---
 openapi: 3.0.1
 info:
-  title: OpenAPI definition
-  version: v0
+  title: MATEBALL
+  version: v1
+  description: >
+    어서오세요 메잇볼 클라들, 스웨거에 오신 것을 환영합니다 ⚾
 servers:
 - url: http://localhost:8080
   description: Generated server url
